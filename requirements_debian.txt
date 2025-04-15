@@ -1,0 +1,8 @@
+# For development
+sudo
+git
+vim
+
+# For R
+r-base
+libnlopt-dev

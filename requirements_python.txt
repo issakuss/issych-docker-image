@@ -1,0 +1,43 @@
+# issych @ git+https://github.com/issakuss/issych
+# pingouin==0.5.5
+# statsmodels==0.14.4
+# networkx==3.4.2
+# rpy2==3.5.17
+# Install above packages and dependencies
+cffi==1.17.1
+contourpy==1.3.1
+cycler==0.12.1
+dynaconf==3.2.10
+fonttools==4.57.0
+issych @ git+https://github.com/issakuss/issych
+Jinja2==3.1.6
+joblib==1.4.2
+kiwisolver==1.4.8
+MarkupSafe==3.0.2
+matplotlib==3.10.1
+networkx==3.4.2
+numpy==2.2.4
+packaging==24.2
+pandas==2.2.3
+pandas_flavor==0.7.0
+patsy==1.0.1
+pillow==11.2.1
+pingouin==0.5.5
+pip==25.0.1
+pyarrow==19.0.1
+pycparser==2.22
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+rpy2==3.5.17
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+six==1.17.0
+statsmodels==0.14.4
+tabulate==0.9.0
+threadpoolctl==3.6.0
+tqdm==4.67.1
+tzdata==2025.2
+tzlocal==5.3.1
+xarray==2025.3.1
